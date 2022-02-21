@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kevin-blanchard-51399074/" LinkedIn target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/kevin-blanchard-51399074/" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
