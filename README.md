@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Site reliability engineer</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">IT Engineer with a passion for software programming</h3>
 
 <h3 align="left">Connect with me:</h3>
