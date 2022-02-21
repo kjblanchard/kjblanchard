@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
-<h3 align="center">IT Engineer with a passion for software programming</h3>
+<h3 align="center">IT Engineer with a passion for gamedev, scripting, IaC, containerized apps and serverless. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
