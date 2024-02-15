@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Blanchard</h1>
 <h3 align="center">A tinkerer in various tech</h3>
 
-- 🌱 I’m currently learning **golang, emscripten, embedding lua**
+- 🌱 I’m currently learning **golang, embedding c#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
