@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Blanchard</h1>
 <h3 align="center">A tinkerer in various tech</h3>
-
+![distro](https://github.com/kjblanchard/kjblanchard/blob/master/img/arch.png?raw=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin-blanchard-51399074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-blanchard-51399074" height="30" width="40" /></a>
@@ -12,7 +12,3 @@
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="40" height="40"/> </a>
 
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjblanchard&" alt="kjblanchard" />
-
-
