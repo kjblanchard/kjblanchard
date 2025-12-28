@@ -2,6 +2,7 @@
 
 ## A tinkerer in various tech
 
+```text
                   -`                     kevin@archpad
                  .o+`                    -------------
                 `ooo/                    OS: Arch Linux x86_64
@@ -28,8 +29,7 @@
                                          Battery (01AV427): 65% [Discharging]
                                          Battery (01AV489): 98% [AC Connected]
                                          Locale: en_US.UTF-8
-
-![Arch Linux](img/arch.png)
+```
 
 ---
 
