@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/kevin-blanchard-51399074)
+- [LinkedIn](https://linkedin.com/in/kevin-blanchard-51399074)
 
 ---
 
