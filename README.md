@@ -61,12 +61,9 @@
     <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.lua.org/images/lua-logo.gif" alt="Terraform" width="40" height="40" />
+    <img src="https://www.lua.org/images/lua-logo.gif" alt="Lua" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://vectorified.com/vim-icon" alt="Terraform" width="40" height="40" />
+    <img src="https://www.vim.org/images/vimlogo.svg" alt="Vim" width="40" height="40" />
   </a>
-
-  
-  
 </p>
