@@ -7,28 +7,21 @@
                  .o+`                    -------------
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:                   Host: 20L6SDX700 (ThinkPad T480)
-              `+oooooo:                  Kernel: Linux 6.12.63-1-lts
-              -+oooooo+:                 Uptime: 1 min
-            `/:-:++oooo+:                Packages: 891 (pacman), 7 (flatpak)
+              `+oooooo:                  Kernel: 6.18.2-zen2-1-zen
+              -+oooooo+:                 Uptime: 19 mins
+            `/:-:++oooo+:                Packages: 897 (pacman), 7 (flatpak)
            `/++++/+++++++:               Shell: zsh 5.9
-          `/++++++++++++++:              Display (AUO103D): 1920x1080 in 14", 60 Hz [Built-in]
+          `/++++++++++++++:              Resolution: 1920x1080
          `/+++ooooooooooooo/`            DE: KDE Plasma 6.5.4
         ./ooosssso++osssssso+`           WM: KWin (Wayland)
        .oossssso-````/ossssss+`          WM Theme: Oxygen
       -osssssso.      :ssssssso.         Theme: Oxygen (BreezeDark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3/4]
      :osssssss/        osssso+++.        Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
-    /ossssssss/        +ssssooo/-        Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
-  `/ossssso+/:-        -:/+osssso+-      Cursor: Oxygen_Zion (24px)
- `+sso+:-`                 `.-/+oso:     Terminal: tmux 3.6a
-`++:.                           `-/+/    CPU: Intel(R) Core(TM) i7-8550U (8) @ 4.00 GHz
-.`                                 `/    GPU: Intel UHD Graphics 620 @ 1.15 GHz [Integrated]
-                                         Memory: 2.43 GiB / 31.11 GiB (8%)
-                                         Swap: 0 B / 4.00 GiB (0%)
-                                         Disk (/): 15.96 GiB / 467.40 GiB (3%) - ext4
-                                         Local IP (wlan0): 10.0.10.135/24
-                                         Battery (01AV427): 65% [Discharging]
-                                         Battery (01AV489): 98% [AC Connected]
-                                         Locale: en_US.UTF-8
+    /ossssssss/        +ssssooo/-        Terminal: tmux 3.6a
+  `/ossssso+/:-        -:/+osssso+-      CPU: Intel(R) Core(TM) i7-8550U (8) @ 4.000GHz
+ `+sso+:-`                 `.-/+oso:     GPU: UHD Graphics 620
+`++:.                           `-/+/    Memory: 3481MiB / 31847MiB
+.`                                 `/
 ```
 
 ---
