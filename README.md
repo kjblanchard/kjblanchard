@@ -8,20 +8,21 @@
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:                   Host: 20L6SDX700 (ThinkPad T480)
               `+oooooo:                  Kernel: 6.18.2-zen2-1-zen
-              -+oooooo+:                 Uptime: 19 mins
-            `/:-:++oooo+:                Packages: 897 (pacman), 7 (flatpak)
+              -+oooooo+:                 Uptime: 1 min
+            `/:-:++oooo+:                Packages: 647 (pacman), 7 (flatpak)
            `/++++/+++++++:               Shell: zsh 5.9
-          `/++++++++++++++:              Resolution: 1920x1080
-         `/+++ooooooooooooo/`            DE: KDE Plasma 6.5.4
-        ./ooosssso++osssssso+`           WM: KWin (Wayland)
-       .oossssso-````/ossssss+`          WM Theme: Oxygen
-      -osssssso.      :ssssssso.         Theme: Oxygen (BreezeDark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3/4]
-     :osssssss/        osssso+++.        Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
-    /ossssssss/        +ssssooo/-        Terminal: tmux 3.6a
-  `/ossssso+/:-        -:/+osssso+-      CPU: Intel(R) Core(TM) i7-8550U (8) @ 4.000GHz
- `+sso+:-`                 `.-/+oso:     GPU: UHD Graphics 620
-`++:.                           `-/+/    Memory: 3481MiB / 31847MiB
+          `/++++++++++++++:              Resolution: 2560x1440
+         `/+++ooooooooooooo/`            WM: Hyprland 0.52.2 (Wayland)
+        ./ooosssso++osssssso+`           Theme: Materia-dark-compact [GTK2/3/4]
+       .oossssso-````/ossssss+`          Icons: Adwaita [GTK2/3/4]
+      -osssssso.      :ssssssso.         Terminal: tmux 3.6a
+     :osssssss/        osssso+++.        CPU: Intel(R) Core(TM) i7-8550U (8) @ 4.000GHz
+    /ossssssss/        +ssssooo/-        GPU: UHD Graphics 620
+  `/ossssso+/:-        -:/+osssso+-      Memory: 2031MiB / 31846MiB
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
 .`                                 `/
+
 ```
 
 ---
