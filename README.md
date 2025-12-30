@@ -8,21 +8,20 @@
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:                   Host: 20L6SDX700 (ThinkPad T480)
               `+oooooo:                  Kernel: 6.18.2-zen2-1-zen
-              -+oooooo+:                 Uptime: 1 min
-            `/:-:++oooo+:                Packages: 647 (pacman), 7 (flatpak)
+              -+oooooo+:                 Uptime: 4 mins
+            `/:-:++oooo+:                Packages: 667 (pacman)
            `/++++/+++++++:               Shell: zsh 5.9
           `/++++++++++++++:              Resolution: 2560x1440
-         `/+++ooooooooooooo/`            WM: Hyprland 0.52.2 (Wayland)
+         `/+++ooooooooooooo/`            WM: Hyprland 0.53.0 (Wayland)
         ./ooosssso++osssssso+`           Theme: Materia-dark-compact [GTK2/3/4]
-       .oossssso-````/ossssss+`          Icons: Adwaita [GTK2/3/4]
+       .oossssso-````/ossssss+`          Icons: Papirus-Dark [GTK2/3/4]
       -osssssso.      :ssssssso.         Terminal: tmux 3.6a
      :osssssss/        osssso+++.        CPU: Intel(R) Core(TM) i7-8550U (8) @ 4.000GHz
     /ossssssss/        +ssssooo/-        GPU: UHD Graphics 620
-  `/ossssso+/:-        -:/+osssso+-      Memory: 2031MiB / 31846MiB
+  `/ossssso+/:-        -:/+osssso+-      Memory: 1968MiB / 31846MiB
  `+sso+:-`                 `.-/+oso:
 `++:.                           `-/+/
 .`                                 `/
-
 ```
 
 ---
