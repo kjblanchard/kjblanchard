@@ -8,11 +8,9 @@
 - Game engines (Unity, Unreal)
 - Automation, scripting, and general tinkering
 
----
-
 ## My dev environment
 
-Arch Linux • Hyprland • tmux • Vim  
+Arch Linux • Hyprland • tmux • Vim • Thinkpad T480
 
 ---
 
